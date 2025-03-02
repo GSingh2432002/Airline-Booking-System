@@ -1,4 +1,5 @@
 const express = require('express');
+
 const v1Routes = require('./v1');
 
 const router = express.Router();
